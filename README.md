@@ -9,7 +9,7 @@ NOTE: We were unable to flash the firmware to our Spider v2.2 board with traditi
 
 Sensorless Homing may require further tuning for your specific printer!
 
-# Feature Set 2/7/2023
+# Feature Set 2/12/2023
 
 + Sensorless Homing
 + 64 Microsteps
@@ -17,6 +17,9 @@ Sensorless Homing may require further tuning for your specific printer!
 + Higher Current Stepper Settings
 + PID Calibration for 120v Silicone Heated Bed
 + Sensorless Homing Macros, Start G-Codes and more adapted from RatRig
++ Purge Bucket Mod now Installed
++ Fully tuned TMC Stepper Drivers for the FYSETC TMC 2209 V3.1 with TMC Performance spreadsheet. Currently working on X driver to see if it helps with my undervolt alarms (they haven't come back once yet!)
++ Updated Crowsnest and other items, setup a webcam on it.
 
 
 ### To-Do List
