@@ -9,6 +9,16 @@ NOTE: We were unable to flash the firmware to our Spider v2.2 board with traditi
 
 Sensorless Homing may require further tuning for your specific printer!
 
+
+# Updates 3/24/2023
++ Purge bucket disabled in this revision
++ Klicky Probe installed and working for Z Endstop, Probe, instead of the endstop
+switch and/or the inductive probe.
++ Other minor fixes, left all configuration change dates so you can still use the
+old  purge settings if you don't wish to upgrade to Klicky
++ We will make it easier to enable/disable options as we have free time!
+
+
 # Feature Set 2/7/2023
 
 + Sensorless Homing
